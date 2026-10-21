@@ -12,3 +12,13 @@ Tested on a MacBook Pro (16GB) with Wi-Fi turned off.
 ## Usage
 python3 describe.py path/to/image.png
 python3 describe.py notes.txt# offline-gemma-describer
+
+## Demo
+
+Input image:
+
+![Input image](Landscape.png)
+
+Output, running fully offline on-device:
+
+![Demo output](demo.png)
